@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 
 # 获取指定域名的dns记录，找到域名的所有子域名  优化版本：采用多进行执行
+# version v1.0
 
 from dns import resolver
 from itertools import permutations
