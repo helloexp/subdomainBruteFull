@@ -1,5 +1,0 @@
-﻿,查询的域名,查询结果
-0,op.baidu.com. IN A,op.baidu.com. 6183 IN CNAME op.e.shifen.com.---op.e.shifen.com. 298 IN A 123.125.115.174---op.e.shifen.com. 298 IN A 123.125.115.209
-1,or.baidu.com. IN A,or.baidu.com. 6187 IN CNAME orp.n.shifen.com.---orp.n.shifen.com. 298 IN A 123.125.115.15---orp.n.shifen.com. 298 IN A 123.125.112.68
-2,pa.baidu.com. IN A,pa.baidu.com. 6188 IN CNAME pa.e.shifen.com.---pa.e.shifen.com. 298 IN A 123.125.115.26
-3,pe.baidu.com. IN A,pe.baidu.com. 6188 IN A 10.23.65.19

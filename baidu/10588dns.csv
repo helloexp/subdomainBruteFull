@@ -1,8 +1,0 @@
-﻿,查询的域名,查询结果
-0,my.baidu.com. IN A,my.baidu.com. 6183 IN CNAME my.n.shifen.com.---my.n.shifen.com. 298 IN A 111.206.223.136
-1,nb.baidu.com. IN A,nb.baidu.com. 599 IN CNAME nb.e.shifen.com.---nb.e.shifen.com. 299 IN A 123.125.115.174---nb.e.shifen.com. 299 IN A 123.125.115.209
-2,nc.baidu.com. IN A,nc.baidu.com. 6183 IN A 180.97.104.48---nc.baidu.com. 6183 IN A 112.34.111.20---nc.baidu.com. 6183 IN A 123.125.115.81
-3,ng.baidu.com. IN A,ng.baidu.com. 6189 IN A 10.42.6.106---ng.baidu.com. 6189 IN A 10.57.8.161
-4,nl.baidu.com. IN A,nl.baidu.com. 6188 IN A 10.42.7.232
-5,nm.baidu.com. IN A,nm.baidu.com. 6190 IN CNAME domain-offline.baidu.com.---domain-offline.baidu.com. 58 IN A 182.61.62.50
-6,np.baidu.com. IN A,np.baidu.com. 6191 IN CNAME psdev64.a.shifen.com.---psdev64.a.shifen.com. 599 IN A 10.23.245.224---psdev64.a.shifen.com. 599 IN A 10.23.239.95---psdev64.a.shifen.com. 599 IN A 10.23.239.99

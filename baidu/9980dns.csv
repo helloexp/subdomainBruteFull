@@ -1,8 +1,0 @@
-﻿,查询的域名,查询结果
-0,zc.baidu.com. IN A,zc.baidu.com. 6183 IN CNAME 8.n.shifen.com.---8.n.shifen.com. 298 IN A 111.206.37.81---8.n.shifen.com. 298 IN A 112.80.255.131---8.n.shifen.com. 298 IN A 61.135.186.244
-1,zf.baidu.com. IN A,zf.baidu.com. 6187 IN CNAME baifubao-bfe.n.shifen.com.---baifubao-bfe.n.shifen.com. 299 IN A 103.235.47.86
-2,zk.baidu.com. IN A,zk.baidu.com. 6190 IN A 10.92.45.15---zk.baidu.com. 6190 IN A 10.44.169.39---zk.baidu.com. 6190 IN A 10.44.169.47---zk.baidu.com. 6190 IN A 10.81.1.193---zk.baidu.com. 6190 IN A 10.92.44.48
-3,zn.baidu.com. IN A,zn.baidu.com. 6189 IN CNAME zhanzhang.baidu.com.---zhanzhang.baidu.com. 134 IN CNAME zhanzhang.n.shifen.com.---zhanzhang.n.shifen.com. 300 IN A 123.125.115.62
-4,zp.baidu.com. IN A,zp.baidu.com. 598 IN A 119.75.222.131
-5,zr.baidu.com. IN A,zr.baidu.com. 6191 IN CNAME crowdfunding.baidu.com.---crowdfunding.baidu.com. 6182 IN A 111.206.37.138---crowdfunding.baidu.com. 6182 IN A 220.181.57.72
-6,zt.baidu.com. IN A,zt.baidu.com. 6192 IN CNAME zt.map.n.shifen.com.---zt.map.n.shifen.com. 300 IN A 112.80.248.210---zt.map.n.shifen.com. 300 IN A 111.206.223.193

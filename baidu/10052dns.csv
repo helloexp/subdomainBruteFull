@@ -1,9 +1,0 @@
-﻿,查询的域名,查询结果
-0,im.baidu.com. IN A,im.baidu.com. 121 IN CNAME im2.n.shifen.com.---im2.n.shifen.com. 60 IN A 103.235.47.123
-1,in.baidu.com. IN A,in.baidu.com. 598 IN CNAME appc.n.shifen.com.---appc.n.shifen.com. 198 IN A 103.235.47.17
-2,io.baidu.com. IN A,io.baidu.com. 6183 IN A 10.46.104.43
-3,ip.baidu.com. IN A,ip.baidu.com. 185 IN A 10.92.143.22---ip.baidu.com. 185 IN A 10.42.61.42---ip.baidu.com. 185 IN A 10.42.94.12---ip.baidu.com. 185 IN A 10.92.143.21
-4,iq.baidu.com. IN A,iq.baidu.com. 6184 IN A 10.81.12.102
-5,ir.baidu.com. IN A,ir.baidu.com. 600 IN CNAME phx.corporate-ir.net.---phx.corporate-ir.net. 153 IN CNAME www.corporate-ir.net.edgesuite.net.---www.corporate-ir.net.edgesuite.net. 545 IN CNAME a121.g.akamai.net.---a121.g.akamai.net. 20 IN A 216.156.211.43---a121.g.akamai.net. 20 IN A 216.156.211.35
-6,iv.baidu.com. IN A,iv.baidu.com. 6189 IN CNAME automap.n.shifen.com.---automap.n.shifen.com. 299 IN A 111.202.114.154
-7,ix.baidu.com. IN A,ix.baidu.com. 6190 IN CNAME webproxy.baidu.ttplayer.com.---webproxy.baidu.ttplayer.com. 125 IN A 182.61.35.21
