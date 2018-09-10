@@ -23,5 +23,3 @@ v1.1.1	根据操作系统类型，做清屏工作
 
 ##	程序运行所需环境 Python3
 相关依赖安装：	pip install pandas dnspython
-
-
