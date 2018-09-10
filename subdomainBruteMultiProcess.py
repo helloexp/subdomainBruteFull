@@ -161,7 +161,6 @@ if __name__ == '__main__':
 		iList=clist[i*eachList:eachList*(i+1)+1]		
 		p.apply_async(getDNS,args=(i,iList,domainName,outDir))
 
-
 	print("Waiting for all subprocess done...")
 	p.close()
 	p.join()
