@@ -1,0 +1,9 @@
+﻿,查询的域名,查询结果
+0,rq.baidu.com. IN A,rq.baidu.com. 6187 IN CNAME huiyan.map.n.shifen.com.---huiyan.map.n.shifen.com. 300 IN A 111.206.37.227---huiyan.map.n.shifen.com. 300 IN A 112.80.255.107---huiyan.map.n.shifen.com. 300 IN A 163.177.151.155
+1,rt.baidu.com. IN A,rt.baidu.com. 6187 IN CNAME realtime.offlinea.bae.baidu.com.---realtime.offlinea.bae.baidu.com. 4 IN CNAME offlinea.shifen.bae.baidu.com.---offlinea.shifen.bae.baidu.com. 3 IN A 10.26.3.49---offlinea.shifen.bae.baidu.com. 3 IN A 10.36.3.27
+2,sa.baidu.com. IN A,sa.baidu.com. 6191 IN A 10.94.35.13
+3,sb.baidu.com. IN A,sb.baidu.com. 6190 IN A 10.46.248.42
+4,sc.baidu.com. IN A,sc.baidu.com. 598 IN A 10.207.6.39
+5,sd.baidu.com. IN A,sd.baidu.com. 190 IN CNAME bavhome.wshifen.com.---bavhome.wshifen.com. 42 IN A 103.235.46.69
+6,se.baidu.com. IN A,se.baidu.com. 6192 IN A 10.99.27.31
+7,sg.baidu.com. IN A,sg.baidu.com. 6179 IN CNAME unionsug.baidu.com.---unionsug.baidu.com. 7194 IN CNAME unionsug.a.shifen.com.---unionsug.a.shifen.com. 594 IN A 123.125.114.104

@@ -1,0 +1,7 @@
+﻿,查询的域名,查询结果
+0,tu.baidu.com. IN A,tu.baidu.com. 6184 IN CNAME image.n.shifen.com.---image.n.shifen.com. 167 IN A 115.239.210.36---image.n.shifen.com. 167 IN A 180.97.33.134
+1,tw.baidu.com. IN A,tw.baidu.com. 6187 IN CNAME other.a.shifen.com.---other.a.shifen.com. 598 IN A 123.125.114.144
+2,tx.baidu.com. IN A,tx.baidu.com. 6188 IN CNAME nj.inrouter.n.shifen.com.---nj.inrouter.n.shifen.com. 299 IN A 10.208.6.174---nj.inrouter.n.shifen.com. 299 IN A 10.208.6.173
+3,ub.baidu.com. IN A,ub.baidu.com. 600 IN A 111.206.37.102
+4,uf.baidu.com. IN A,uf.baidu.com. 6190 IN A 10.65.3.131
+5,um.baidu.com. IN A,um.baidu.com. 6190 IN CNAME um.e.shifen.com.---um.e.shifen.com. 299 IN A 123.125.115.133

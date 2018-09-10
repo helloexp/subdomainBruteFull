@@ -1,0 +1,9 @@
+﻿,查询的域名,查询结果
+0,kr.baidu.com. IN A,kr.baidu.com. 6184 IN A 10.95.39.53
+1,ks.baidu.com. IN A,ks.baidu.com. 2583 IN CNAME ks.zongheng.com.---ks.zongheng.com. 10 IN A 118.26.21.72---ks.zongheng.com. 10 IN A 111.13.108.103
+2,kw.baidu.com. IN A,kw.baidu.com. 6183 IN CNAME search-ar.wshifen.com.---search-ar.wshifen.com. 293 IN A 103.235.46.114
+3,la.baidu.com. IN A,la.baidu.com. 6190 IN A 10.83.128.238
+4,lb.baidu.com. IN A,lb.baidu.com. 6189 IN CNAME sh.api.int.n.shifen.com.---sh.api.int.n.shifen.com. 298 IN A 10.202.6.208
+5,lc.baidu.com. IN A,lc.baidu.com. 6189 IN CNAME licai.e.shifen.com.---licai.e.shifen.com. 300 IN A 123.125.115.217
+6,li.baidu.com. IN A,li.baidu.com. 6192 IN A 10.91.160.188
+7,lj.baidu.com. IN A,lj.baidu.com. 6192 IN A 10.202.6.134

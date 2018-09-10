@@ -1,0 +1,7 @@
+﻿,查询的域名,查询结果
+0,pp.baidu.com. IN A,pp.baidu.com. 6182 IN CNAME pic.n.shifen.com.---pic.n.shifen.com. 300 IN A 106.39.162.253
+1,ss.baidu.com. IN A,ss.baidu.com. 598 IN CNAME httpsproxy.a.shifen.com.---httpsproxy.a.shifen.com. 598 IN A 153.3.236.95---httpsproxy.a.shifen.com. 598 IN A 61.135.186.173
+2,vv.baidu.com. IN A,vv.baidu.com. 6188 IN CNAME nvideo.n.shifen.com.---nvideo.n.shifen.com. 205 IN CNAME nvideo.wshifen.com.---nvideo.wshifen.com. 205 IN A 104.193.88.125
+3,ww.baidu.com. IN A,ww.baidu.com. 6188 IN CNAME ps_other.a.shifen.com.---ps_other.a.shifen.com. 599 IN A 123.125.114.144
+4,yy.baidu.com. IN A,yy.baidu.com. 6188 IN CNAME speech.n.shifen.com.---speech.n.shifen.com. 81 IN A 153.3.236.85
+5,zz.baidu.com. IN A,zz.baidu.com. 6191 IN CNAME zhanzhang.n.shifen.com.---zhanzhang.n.shifen.com. 300 IN A 123.125.115.62

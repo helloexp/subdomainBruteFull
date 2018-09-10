@@ -1,0 +1,10 @@
+﻿,查询的域名,查询结果
+0,lm.baidu.com. IN A,lm.baidu.com. 600 IN CNAME ztc-new.n.shifen.com.---ztc-new.n.shifen.com. 300 IN A 153.37.235.91
+1,ls.baidu.com. IN A,ls.baidu.com. 4542 IN CNAME ls.a.shifen.com.---ls.a.shifen.com. 599 IN A 202.106.2.43---ls.a.shifen.com. 599 IN A 163.177.151.225
+2,lu.baidu.com. IN A,lu.baidu.com. 6187 IN CNAME lvyou.baidu.com.---lvyou.baidu.com. 5789 IN CNAME lvyou.n.shifen.com.---lvyou.n.shifen.com. 295 IN A 119.75.222.132
+3,lv.baidu.com. IN A,lv.baidu.com. 6189 IN CNAME lvyou.baidu.com.---lvyou.baidu.com. 5789 IN CNAME lvyou.n.shifen.com.---lvyou.n.shifen.com. 295 IN A 119.75.222.132
+4,lx.baidu.com. IN A,lx.baidu.com. 6189 IN A 10.212.6.188
+5,ly.baidu.com. IN A,ly.baidu.com. 6188 IN CNAME lvyou.baidu.com.---lvyou.baidu.com. 5789 IN CNAME lvyou.n.shifen.com.---lvyou.n.shifen.com. 295 IN A 119.75.222.132
+6,mb.baidu.com. IN A,mb.baidu.com. 5940 IN CNAME mbrowser.n.shifen.com.---mbrowser.n.shifen.com. 214 IN A 112.80.255.209---mbrowser.n.shifen.com. 214 IN A 202.108.23.180---mbrowser.n.shifen.com. 214 IN A 112.80.248.134---mbrowser.n.shifen.com. 214 IN A 163.177.151.168---mbrowser.n.shifen.com. 214 IN A 163.177.151.167
+7,mc.baidu.com. IN A,mc.baidu.com. 6191 IN CNAME gate.n.shifen.com.---gate.n.shifen.com. 300 IN A 61.135.185.17
+8,md.baidu.com. IN A,md.baidu.com. 6192 IN CNAME bapp.n.shifen.com.---bapp.n.shifen.com. 293 IN A 180.149.131.33

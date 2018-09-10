@@ -1,0 +1,10 @@
+﻿,查询的域名,查询结果
+0,xr.baidu.com. IN A,xr.baidu.com. 600 IN CNAME image.n.shifen.com.---image.n.shifen.com. 287 IN CNAME picture.wshifen.com.---picture.wshifen.com. 288 IN A 103.235.46.231
+1,xs.baidu.com. IN A,xs.baidu.com. 6188 IN CNAME wap.n.shifen.com.---wap.n.shifen.com. 19 IN A 115.239.217.68---wap.n.shifen.com. 19 IN A 115.239.217.67
+2,xy.baidu.com. IN A,xy.baidu.com. 6188 IN A 123.125.115.231
+3,xz.baidu.com. IN A,xz.baidu.com. 6187 IN CNAME huiyan.map.n.shifen.com.---huiyan.map.n.shifen.com. 297 IN A 112.80.255.107---huiyan.map.n.shifen.com. 297 IN A 163.177.151.155---huiyan.map.n.shifen.com. 297 IN A 111.206.37.227
+4,yb.baidu.com. IN A,yb.baidu.com. 6189 IN CNAME app.video.n.shifen.com.---app.video.n.shifen.com. 296 IN A 123.125.115.248
+5,yc.baidu.com. IN A,yc.baidu.com. 798 IN CNAME 730.nuomishows.n.shifen.com.---730.nuomishows.n.shifen.com. 298 IN A 180.97.93.28
+6,yd.baidu.com. IN A,yd.baidu.com. 6190 IN CNAME wapwenku.n.shifen.com.---wapwenku.n.shifen.com. 144 IN A 180.101.212.35
+7,yh.baidu.com. IN A,yh.baidu.com. 6190 IN CNAME dl.e.shifen.com.---dl.e.shifen.com. 299 IN A 123.125.115.116
+8,yi.baidu.com. IN A,yi.baidu.com. 6176 IN CNAME yisheng.e.shifen.com.---yisheng.e.shifen.com. 292 IN A 111.202.114.39

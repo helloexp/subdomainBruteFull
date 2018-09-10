@@ -1,0 +1,9 @@
+﻿,查询的域名,查询结果
+0,zw.baidu.com. IN A,zw.baidu.com. 6186 IN CNAME orp.n.shifen.com.---orp.n.shifen.com. 298 IN A 123.125.112.68---orp.n.shifen.com. 298 IN A 123.125.115.15
+1,zx.baidu.com. IN A,zx.baidu.com. 6187 IN A 10.42.172.41
+2,zy.baidu.com. IN A,zy.baidu.com. 600 IN CNAME ziyuan.n.shifen.com.---ziyuan.n.shifen.com. 300 IN A 112.80.255.152---ziyuan.n.shifen.com. 300 IN A 123.125.115.59
+3,cc.baidu.com. IN A,cc.baidu.com. 6187 IN CNAME ccs.baidu.com.---ccs.baidu.com. 6187 IN CNAME noah.baidu.com.---noah.baidu.com. 6187 IN A 10.36.253.83---noah.baidu.com. 6187 IN A 10.26.7.113
+4,ee.baidu.com. IN A,ee.baidu.com. 6190 IN A 10.46.133.175
+5,jj.baidu.com. IN A,jj.baidu.com. 6191 IN A 10.36.7.47
+6,kk.baidu.com. IN A,kk.baidu.com. 598 IN A 119.75.222.131
+7,pp.baidu.com. IN A,pp.baidu.com. 6177 IN CNAME pic.n.shifen.com.---pic.n.shifen.com. 295 IN A 106.39.162.253

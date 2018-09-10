@@ -1,0 +1,13 @@
+﻿,查询的域名,查询结果
+0,mf.baidu.com. IN A,mf.baidu.com. 600 IN CNAME mf.n.shifen.com.---mf.n.shifen.com. 300 IN A 112.80.248.15
+1,mi.baidu.com. IN A,mi.baidu.com. 6184 IN CNAME mi.n.shifen.com.---mi.n.shifen.com. 299 IN A 202.106.2.11
+2,mk.baidu.com. IN A,mk.baidu.com. 6187 IN A 10.42.174.14
+3,ml.baidu.com. IN A,ml.baidu.com. 6188 IN A 10.26.140.39
+4,mo.baidu.com. IN A,mo.baidu.com. 3934 IN CNAME mbdown.n.shifen.com.---mbdown.n.shifen.com. 300 IN CNAME mbdown.wshifen.com.---mbdown.wshifen.com. 300 IN A 104.193.88.125
+5,mp.baidu.com. IN A,mp.baidu.com. 6188 IN CNAME game.n.shifen.com.---game.n.shifen.com. 298 IN A 112.80.255.173---game.n.shifen.com. 298 IN A 123.125.115.219
+6,mq.baidu.com. IN A,mq.baidu.com. 6189 IN A 10.92.16.61
+7,mr.baidu.com. IN A,mr.baidu.com. 6188 IN CNAME mbdown.n.shifen.com.---mbdown.n.shifen.com. 299 IN CNAME mbdown.wshifen.com.---mbdown.wshifen.com. 299 IN A 104.193.88.125
+8,mt.baidu.com. IN A,mt.baidu.com. 6190 IN A 10.208.6.11
+9,mw.baidu.com. IN A,mw.baidu.com. 6191 IN CNAME baifubao-bfe.n.shifen.com.---baifubao-bfe.n.shifen.com. 298 IN A 103.235.47.86
+10,mx.baidu.com. IN A,mx.baidu.com. 299 IN A 61.135.163.61
+11,my.baidu.com. IN A,my.baidu.com. 6177 IN CNAME my.n.shifen.com.---my.n.shifen.com. 293 IN A 111.206.223.136

@@ -1,0 +1,8 @@
+﻿,查询的域名,查询结果
+0,hr.baidu.com. IN A,hr.baidu.com. 6183 IN CNAME talent.baidu.com.---talent.baidu.com. 6183 IN CNAME talent.n.shifen.com.---talent.n.shifen.com. 300 IN A 61.135.185.176
+1,ht.baidu.com. IN A,ht.baidu.com. 598 IN CNAME shopc.e.shifen.com.---shopc.e.shifen.com. 299 IN A 111.202.114.143
+2,hx.baidu.com. IN A,hx.baidu.com. 6183 IN A 10.46.8.243---hx.baidu.com. 6183 IN A 10.42.6.62
+3,hy.baidu.com. IN A,hy.baidu.com. 6187 IN CNAME iyouxi.game.n.shifen.com.---iyouxi.game.n.shifen.com. 299 IN A 112.80.255.173
+4,hz.baidu.com. IN A,hz.baidu.com. 6188 IN CNAME app.video.n.shifen.com.---app.video.n.shifen.com. 300 IN A 123.125.115.248
+5,id.baidu.com. IN A,id.baidu.com. 6188 IN CNAME eap-fe.n.shifen.com.---eap-fe.n.shifen.com. 299 IN A 103.235.47.123
+6,ie.baidu.com. IN A,ie.baidu.com. 6188 IN CNAME wwwyq.n.shifen.com.---wwwyq.n.shifen.com. 300 IN A 111.206.223.136

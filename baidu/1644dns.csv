@@ -1,0 +1,10 @@
+﻿,查询的域名,查询结果
+0,ka.baidu.com. IN A,ka.baidu.com. 6185 IN CNAME ka.e.shifen.com.---ka.e.shifen.com. 299 IN A 10.81.211.194---ka.e.shifen.com. 299 IN A 10.42.3.102
+1,ke.baidu.com. IN A,ke.baidu.com. 6185 IN CNAME wenku.n.shifen.com.---wenku.n.shifen.com. 230 IN A 103.235.47.122---wenku.n.shifen.com. 230 IN A 103.235.47.114---wenku.n.shifen.com. 230 IN A 103.235.47.115
+2,kf.baidu.com. IN A,kf.baidu.com. 6184 IN A 180.149.144.111
+3,kg.baidu.com. IN A,kg.baidu.com. 6186 IN A 10.50.13.175
+4,kj.baidu.com. IN A,kj.baidu.com. 6185 IN A 10.48.48.31
+5,kl.baidu.com. IN A,kl.baidu.com. 6187 IN CNAME huiyan.map.n.shifen.com.---huiyan.map.n.shifen.com. 270 IN A 163.177.151.155---huiyan.map.n.shifen.com. 270 IN A 111.206.37.227---huiyan.map.n.shifen.com. 270 IN A 112.80.255.107
+6,km.baidu.com. IN A,km.baidu.com. 6186 IN A 10.42.7.54
+7,ko.baidu.com. IN A,ko.baidu.com. 6187 IN CNAME ko.e.shifen.com.---ko.e.shifen.com. 7 IN A 112.80.248.190---ko.e.shifen.com. 7 IN A 111.202.114.61
+8,kr.baidu.com. IN A,kr.baidu.com. 6150 IN A 10.95.39.53
