@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 # 获取指定域名的dns记录，找到域名的所有子域名  优化版本：采用多进行执行
-# version v1.1
+# version v1.1.1
 
 from dns import resolver
 from itertools import permutations
@@ -85,13 +85,19 @@ def getRandom(num):
 
 if __name__ == '__main__':
 
+	if os.name=='nt':
+		os.system('cls')
+	else:
+		os.system('clear')
+
+
 	alphaNum=2
 
 	opts,args=getopt.getopt(sys.argv[1:],'hd:o:n:')
 
 	usage="""
 
-		subdomainBruteMultiProcess  version 1.1
+		subdomainBruteMultiProcess  version 1.1.1
 
 		DABIAOGE  
 
@@ -131,7 +137,7 @@ if __name__ == '__main__':
 
 	msg='您要查询的域名：{}，查询的子域名字母数：{}，输出目录：{}'.format(domainName,alphaNum,outDir)
 	print(msg)
-	#sys.exit(0)	
+	sys.exit(0)	
 	
 	processNum=35
 	if alphaNum==1:
