@@ -101,7 +101,7 @@ if __name__ == '__main__':
 	-n    设置子域名的字母数，默认为2
 	-h    输出此帮助
 
-	eg:		python subdomainBruteMultiProcess.py -d baidu.com -o baidu -n 2
+	eg:   python subdomainBruteMultiProcess.py -d baidu.com -o baidu -n 2
 
 			"""
 
